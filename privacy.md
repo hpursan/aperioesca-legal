@@ -125,7 +125,7 @@ We may update this policy occasionally. Changes will be posted in the app and on
 ## Contact Us
 
 Questions about privacy? Contact us at:
-**Email:** hpursan@gmail.com
+**Email:** aperioesca@gmail.com
 
 ## Related Documents
 

@@ -195,7 +195,7 @@ If any provision of these Terms is found to be invalid or unenforceable, the rem
 
 Questions about these Terms?
 
-**Email:** hpursan@gmail.com
+**Email:** aperioesca@gmail.com
 
 ---
 
