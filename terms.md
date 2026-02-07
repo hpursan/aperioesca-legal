@@ -96,6 +96,24 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 **YOU USE THE APP AT YOUR OWN RISK.**
 
+## 5. Content Policy
+
+Aperioesca is a personal meal awareness tool, **not a social platform**. 
+
+**No User-Generated Content Sharing:**
+- Photos are analyzed privately on your device
+- No ability to share content with other users
+- No public posting or community features
+- Photos sent to AI for analysis are immediately discarded
+
+**Appropriate Use:**
+- The App is intended for analyzing food and meals only
+- Users should not photograph inappropriate, offensive, or illegal content
+- The AI may reject non-food images
+
+**Reporting Concerns:**
+If you encounter any issues or have concerns about the App's functionality, contact us at aperioesca@gmail.com.
+
 ---
 
 ## 6. Privacy
