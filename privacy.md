@@ -129,7 +129,7 @@ Questions about privacy? Contact us at:
 
 ## Related Documents
 
-- **Terms of Service:** [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md)
+- **Terms of Service:** [https://hpursan.github.io/aperioesca-legal/terms.html](https://hpursan.github.io/aperioesca-legal/terms.html)
 - **Medical Disclaimer:** See Terms of Service
 
 ## Summary

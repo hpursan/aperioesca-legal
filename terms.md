@@ -100,7 +100,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 ## 6. Privacy
 
-Your privacy is important to us. Please review our [Privacy Policy](PRIVACY_POLICY.md) to understand how we collect, use, and protect your data.
+Your privacy is important to us. Please review our [Privacy Policy](https://hpursan.github.io/aperioesca-legal/privacy.html) to understand how we collect, use, and protect your data.
 
 **Key points:**
 - Meal data stays on your device
